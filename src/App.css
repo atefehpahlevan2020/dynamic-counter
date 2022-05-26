@@ -1,0 +1,7 @@
+body{
+    background-color: #ddd;
+    min-height: 100vh;
+}
+.counter-container > div{
+    margin: 30px auto;
+}

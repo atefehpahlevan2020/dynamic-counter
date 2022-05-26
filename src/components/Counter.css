@@ -1,0 +1,29 @@
+.Counter{
+    width : 300px;
+    height: 130px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Counter-num{
+    font: 40px "Shabnam FD";
+    color: #000;
+    text-align: center;
+}
+.Counter-btns-container{
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: center;
+}
+.Counter-btn{
+    width: 70px;
+    height: 35px;
+    border: transparent;
+    background-color: #d2d2ab;
+    font: 20px "Shabnam FD";
+    color: white;
+    text-align: center;
+    line-height: 35px;
+}
